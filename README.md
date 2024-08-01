@@ -1,4 +1,4 @@
-# Hey, I'm Niranjan:
+# Hey, I'm Niranjan! 👋
 About Me!<br><br>👨🏽‍💻 I’m currently a IT Undergrad student<br>🌱 I’m currently exploring Generative AI and ML fields.<br>💬 Ask me anything about ML or AI ,  I love to answer!<br>😄 Pronouns: He/Him.<br>📫 Email me at niranjan180280@gmail.com
 
 
